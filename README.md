@@ -150,6 +150,6 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-
+https://github.com/vxrdha/igallery/blob/main/Screenshot%202025-10-07%20193841.png
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
